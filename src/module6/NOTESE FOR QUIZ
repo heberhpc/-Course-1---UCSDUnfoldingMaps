@@ -1,0 +1,5 @@
+NOTES..
+
+Step 3: Implement the Comparable interface in EarthquakeMarker:
+* Occurs errors inside LandQuakeMarkers and OceanQuakeMarkers -- Need to implements compareTo Method
+
